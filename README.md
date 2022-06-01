@@ -28,9 +28,9 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PhetSirmhuel&count_private=true&show_icons=true&include_all_commits=true)
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=PhetSirmhuel)](https://github.com/PhetSirmhuel/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhetSirmhuel&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Petsamuel&count_private=true&show_icons=true&include_all_commits=true)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Petsamuel)](https://github.com/PhetSirmhuel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&hide=TeX&layout=compact)
 
 
 <!---
