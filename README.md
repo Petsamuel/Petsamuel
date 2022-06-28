@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1gfgelrVVyKJH6Kc-ffKzDr116HSo7MF5" width="100%" alt="Banner">
+  <img src="https://drive.google.com/uc?id=1gfgelrVVyKJH6Kc-ffKzDr116HSo7MF5" width="100%" alt=" Banner">
 </div>
 
 <h3>ABOUT ME</h3>
-I am hard working, team-centric, highly driven individual with a clear set of goals and a passion for software Development.
-Building a successful product is a challenge.<br>I am highly energetic in user experience design, interfaces and web development.
+I am hard working, team-centric, highly driven individual with a clear set of goals and a passion for software development.
+Building a successful product is a challenge.<br>
+I'm highly energetic in user experience design, interfaces and web development.
 
-- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/samuel-peters-0746b1216)
+ 📫How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/samuel-peters-0746b1216)
 
 ### ⚡ TOOLS AND TECHNOLOGIES USED
 
