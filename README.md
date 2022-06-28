@@ -29,7 +29,7 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Petsamuel&count_private=true&show_icons=true&include_all_commits=true)
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Petsamuel)](https://github.com/PhetSirmhuel/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Petsamuel)](https://github.com/Petsamuel/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&hide=TeX&layout=compact)
 
 
@@ -39,5 +39,5 @@ You can click the Preview link to take a look at your changes. or https://linked
 
 --->
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Petsamuel&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/PhetSirmhuel/github-profile-trophy#about-rank)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Petsamuel&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Petsamuel/github-profile-trophy#about-rank)
   
