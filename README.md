@@ -30,7 +30,7 @@ I'm highly energetic in user experience design, interfaces and web development.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Petsamuel&count_private=true&show_icons=true&include_all_commits=true)
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Petsamuel)](https://github.com/Petsamuel/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&hide=TeX&layout=compact)
 
 
