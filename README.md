@@ -3,9 +3,11 @@
 </div>
 
 <h3>ABOUT ME</h3>
-A competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
+I'm competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
 
 <br/>
+
+
 <div align="left">
   <a href="https://twitter.com/bieefilled" target="_blank"><img src="https://img.shields.io/twitter/follow/bieefilled?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
   <a href="https://www.frontendmentor.io/profile/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
