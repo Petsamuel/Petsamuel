@@ -3,14 +3,14 @@
 </div>
 
 <h3>ABOUT ME</h3>
-I'm competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
+I'm a competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
 
 <br/>
 
 
 <div align="left">
   <a href="https://twitter.com/bieefilled" target="_blank"><img src="https://img.shields.io/twitter/follow/bieefilled?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-  <a href="https://www.frontendmentor.io/profile/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
+  <a href="https://www.frontendmentor.io/profile/petsamuel" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
   <a href="https://www.linkedin.com/in/samuel-peters-0746b1216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bieefilled-informational?style=for-the-badge&logo=LinkedIn" alt="LinkedIN" /></a> 
   <a href="https://linktr.ee/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Linktree-Bieefilled-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img src="https://img.shields.io/github/license/petsamuel/Petsamuel?color=green&style=for-the-badge" alt="GitHub">
