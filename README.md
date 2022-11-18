@@ -21,7 +21,7 @@ I'm a competent software engineer with a strong desire to create efficient, user
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
-I spend my free time Reading Books. :wink:
+I spend my free time Reading Books, Contributing to Opensource. :wink:
 
 
 ### ⚡ Technical Skills & Tools
@@ -42,7 +42,7 @@ I spend my free time Reading Books. :wink:
 ## How about Some Bullet Points? :heavy_check_mark:
 
 - I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone).
-- I'm currently learning [React](https://reactjs.org/) and [Web3]().
+- I'm currently learning [React ](https://reactjs.org/) , [Web3]() and [Matter.js]().
 - You can [contact me through email](mailto:petsamuel4@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
 
