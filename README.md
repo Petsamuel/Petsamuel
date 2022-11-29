@@ -43,7 +43,7 @@ I spend my free time Reading Books, Contributing to Opensource. :wink:
 
 - I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone).
 - I'm currently learning [React ](https://reactjs.org/) , [Web3]() and [Matter.js]().
-- You can [contact me through email](mailto:petsamuel4@gmail.com)
+- You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
 
 
