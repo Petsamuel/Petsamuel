@@ -48,20 +48,23 @@ I spend my free time Reading Books, Contributing to Opensource. :wink:
 
 
 <details>
-<summary>View my activity on GitHub</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Petsamuel&count_private=true&show_icons=true&include_all_commits=true)
-   
+  <summary>View my activity on GitHub</summary>
+ <br/>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Petsamuel&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Petsamuel/github-profile-trophy#about-rank)
+  
+  <table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://streak-stats.demolab.com?user=Petsamuel&theme=dark"/></td>
+     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Petsamuel&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=Petsamuel&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Petsamuel/github-profile-trophy#about-rank)
+
+  
+
     
- [![linkedin](https://linkedin-github.herokuapp.com/api/render/Peter%20samuel/SoftwarevDeveloper/Fullstack%20/Deploma%20Computer%20Science/dark/https%3A%2F%2Flh3.googleusercontent.com%2Fogw%2FAOh-ky0cxsjOObfrRhA1e_3llAkx0oyx93gDrCk48X9gpQ%3Ds32-c-mo)](https://www.linkedin.com/in/samuel-peters-0746b1216)
-</details>
-
-
-
-
 <!---
 bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. or https://linkedin.com/in/samuel-peters-0746b1216
