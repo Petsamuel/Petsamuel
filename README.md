@@ -41,7 +41,7 @@ I spend my free time Reading Books, Contributing to Opensource. :wink:
 
 ## How about Some Bullet Points? :heavy_check_mark:
 
-- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone), [Varena](https://varena.hng.tech), [windBnb](https://github.com/Petsamuel/windBnB).
+- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone), [Varena](https://varena.hng.tech), [windBnb](https://github.com/Petsamuel/windBnB),[HR TOOL]
 - I'm currently learning [React, React Query ](https://reactjs.org/) , [Web3](), and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
@@ -74,4 +74,4 @@ You can click the Preview link to take a look at your changes. or https://linked
 
 
   
-[![@bieefilled's Holopin board](https://holopin.io/api/user/board?user=bieefilled)](https://holopin.io/@bieefilled)
+[![@bieefilled's Holopin board](https://holopin.io/API/user/board?user=bieefilled)](https://holopin.io/@bieefilled)
