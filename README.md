@@ -3,7 +3,7 @@
 </div>
 
 <h3>ABOUT ME</h3>
-I'm a competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
+I'm a competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Expert in technology, and coding for the creation of dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. A skilled speaker, and inventive software creator. I pride myself on my reputation in the community by creating accessible websites.
 
 <br/>
 
