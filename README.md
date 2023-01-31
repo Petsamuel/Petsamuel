@@ -35,7 +35,7 @@ I spend my free time Reading Books, Contributing to Opensource. :wink:
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) - The styling sheet for the web.
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -Bootstrap is a styling framework.
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -Structured Query Language, used for storing, manipulating and retrieving data stored in a relational database.
-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) - hosting Plateform.
+- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) - hosting Platform.
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) - version control 
 
 
