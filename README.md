@@ -42,7 +42,7 @@ I spend my free time Reading Books, Contributing to opensource. :wink:
 
 ## How about Some Bullet Points? :heavy_check_mark:
 
-- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone), [Varena](https://varena.app), [windBnb](https://github.com/Petsamuel/windBnB),[Bieefilled_portfolio](https://bieeflled.vercel.app)
+- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone), [windBnb](https://github.com/Petsamuel/windBnB),[Bieefilled_portfolio](https://bieeflled.vercel.app)
 - I'm currently learning [React, TypeScript ,solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
