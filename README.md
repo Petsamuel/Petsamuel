@@ -63,7 +63,8 @@ I spend my free time Reading Books, Contributing to opensource. :wink:
 </table>
     
 
-  
+  ##Profile Views
+  [![](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
     
 <!---
