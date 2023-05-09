@@ -46,7 +46,7 @@ I spend my free time Reading Books, Contributing to opensource. :wink:
 - I'm currently learning [React, TypeScript ,solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
-
+[![Profile views ](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <details>
   <summary>View my activity on GitHub</summary>
@@ -63,9 +63,7 @@ I spend my free time Reading Books, Contributing to opensource. :wink:
 </table>
     
 
-  ##Profile Views
-  [![](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
+ 
     
 <!---
 bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
