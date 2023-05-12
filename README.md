@@ -15,6 +15,10 @@ A skilled speaker, and inventive software creator. I pride myself on my reputati
   <a href="https://www.linkedin.com/in/samuel-peters-0746b1216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bieefilled-informational?style=for-the-badge&logo=LinkedIn" alt="LinkedIN" /></a> 
   <a href="https://linktr.ee/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Linktree-Bieefilled-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img src="https://img.shields.io/github/license/petsamuel/Petsamuel?color=green&style=for-the-badge" alt="GitHub">
+  
+  
+[![Profile views ](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+  
 </div>
 <br/>
 
@@ -46,7 +50,6 @@ I spend my free time Reading Books, Contributing to opensource. :wink:
 - I'm currently learning [React, TypeScript ,solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
-[![Profile views ](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <details>
   <summary>View my activity on GitHub</summary>
