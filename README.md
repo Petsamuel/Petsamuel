@@ -26,7 +26,7 @@ A skilled speaker, and inventive software creator.
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
-I spend my free time Reading Books, Contributing to opensource. :wink:
+I spend my free time Reading Books, and contributing to opensource. :wink:
 
 
 ### ⚡ Technical Skills & Tools
