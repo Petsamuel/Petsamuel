@@ -25,7 +25,7 @@ I'm a competent software engineer with a strong desire to create efficient, user
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
-I spend my free time Reading Books, and contributing to opensource. :wink:
+I spend my free time Reading Books, and contributing to open source. :wink:
 
 
 ### ⚡ Technical Skills & Tools
