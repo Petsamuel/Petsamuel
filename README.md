@@ -31,17 +31,7 @@ I spend my free time Reading Books, and contributing to open source. :wink:
 ### ⚡ Technical Skills & Tools
 
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) - An object-oriented computer programming language commonly used to create interactive effects within web browsers.
-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) - Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) - Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) - React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) - The building block of the web. No website can survive without this.
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) - The styling sheet for the web.
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -Bootstrap is a styling framework.
-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -Structured Query Language, used for storing, manipulating, and retrieving data stored in a relational database.
-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) - hosting Platform.
-
--![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) - version control 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 ## How about Some Bullet Points? :heavy_check_mark:
