@@ -39,7 +39,7 @@ I spend my free time Reading Books, and contributing to open source. :wink:
 - I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone),[Bieefilled_portfolio](https://bieeflled.vercel.app)
 - I'm currently learning [React, TypeScript ,solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
-- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-peters-0746b1216/)**
+- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)**
 
 <details>
   <summary>View my activity on GitHub</summary>
