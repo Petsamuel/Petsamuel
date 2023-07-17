@@ -36,7 +36,7 @@ I spend my free time Reading Books, and contributing to open source. :wink:
 
 ## How about Some Bullet Points? :heavy_check_mark:
 
-- I'm currently working on [Linktree-clone ],Koinfunds, (https://github.com/Petsamuel/linktree-clone),[Bieefilled_portfolio](https://bieeflled.vercel.app)
+- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone),[Bieefilled_portfolio](https://bieeflled.vercel.app), and [Koinfunds](https://github.com/ayeolakenny/koin-funds)
 - I'm currently learning [React, TypeScript ,solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)**
