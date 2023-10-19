@@ -16,7 +16,7 @@ I'm a competent software engineer with a strong desire to create efficient, user
   <a href="https://www.frontendmentor.io/profile/petsamuel" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
   <a href="https://www.linkedin.com/in/samuel-peters-0746b1216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bieefilled-informational?style=for-the-badge&logo=LinkedIn" alt="LinkedIN" /></a> 
   <a href="https://linktr.ee/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Linktree-Bieefilled-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  <img src="https://img.shields.io/github/license/petsamuel/Petsamuel?color=green&style=for-the-badge" alt="GitHub">
+  
   
 </div>
 <br/>
