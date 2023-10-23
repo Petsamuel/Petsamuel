@@ -45,13 +45,18 @@ I spend my free time Reading Books, and contributing to open source. :wink:
  <br/>
   
   <table>
+  <tbody>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petsamuel&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="top"><img src="https://streak-stats.demolab.com?user=Petsamuel&theme=dark"/></td>
      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Petsamuel&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
+  </tbody>
 </table>
-    
+
+
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  
     
