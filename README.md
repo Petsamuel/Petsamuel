@@ -39,9 +39,6 @@ I spend my free time Reading Books, and contributing to open source. :wink:
 - I'm currently learning [React TypeScript, solidity](https://reactjs.org/),  and [Matter.js]().
 - You can [contact me through email](mailto:bieefilled@gmail.com)
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)**
-
-
-  <summary>View my activity on GitHub</summary>
  <br/>
   
   <table>
