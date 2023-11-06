@@ -51,15 +51,7 @@ I spend my free time Reading Books, and contributing to open source. :wink:
 </table>
 
 
-  <!--START_SECTION:waka-->
 
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
  
     
