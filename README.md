@@ -34,8 +34,6 @@ I spend my free time Reading Books and contributing to open source. :wink:
 
 <br/><br/>
 ## How about Some Bullet Points? :heavy_check_mark:
-
-- I'm currently working on [Linktree-clone ](https://github.com/Petsamuel/linktree-clone),[Portfolio](https://bieeflled.vercel.app), and [Koinfunds](https://github.com/ayeolakenny/koin-funds)
 - I'm currently learning [LLM, NLP, solidity](https://reactjs.org/).
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)**
  <br/>
