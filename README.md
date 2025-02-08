@@ -50,16 +50,5 @@ I spend my free time Reading Books and contributing to open source. :wink:
 
 
 
-
- 
-    
-<!---
-bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. or https://linkedin.com/in/samuel-peters-0746b1216
-
---->
-
-
-
   
 [![An image of @bieefilled's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bieefilled)](https://holopin.io/@bieefilled)
