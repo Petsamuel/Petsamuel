@@ -3,7 +3,17 @@
 </div>
 
 <h3>ABOUT ME</h3>  
-I'm a competent software engineer with a strong desire to create efficient, user-friendly solutions that increase the productivity and effectiveness of organizations. Technology expert, and coding for creating dependable, user-friendly systems. A talented leader who encourages, teaches, and leads a team of experts to develop software, and track changes effectively. An imaginative developer whose software is tailored to meet the demands of a company, emphasize its key assets, and encourage its success. 
+I'm a full-stack software engineer with a strong bias toward frontend. I focus on crafting seamless user experiences and performant web applications. I specialise in React, Next.js, and Tailwind CSS and integrate backend services with tools such as Firebase, Firestore, Postgres, MySQL, and FastAPI. I also build browser extensions, e-commerce platforms,  and SaaS tools.
+
+My target Clients are:
+
+- Startup founders looking to launch or scale MVPs
+
+- Tech-forward businesses needing fast, clean, scalable UIs
+
+- Agencies that need reliable frontend expertise on contract
+
+- Non-tech clients who need simplified digital solutions with aesthetic, functional builds.
 
 <br/>
 
