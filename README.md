@@ -3,7 +3,7 @@
 </div>
 
 <h3>ABOUT ME</h3>  
-I'm a full-stack software engineer with a strong bias toward frontend. I focus on crafting seamless user experiences and performant web applications. I specialise in React, Next.js, and Tailwind CSS and integrate backend services with tools such as Firebase, Firestore, Postgres, MySQL, and FastAPI. I also build browser extensions, e-commerce platforms,  and SaaS tools.
+I'm a full-stack software engineer with a strong bias toward frontend. I focus on crafting seamless user experiences and performant web applications. I specialise in React, Next.js, and Tailwind CSS and integrate backend services with tools such as Nodejs, Firebase, Firestore, Postgres, MySQL, and FastAPI. I also build browser extensions, e-commerce platforms,  and SaaS tools.
 
 My target Clients are:
 
