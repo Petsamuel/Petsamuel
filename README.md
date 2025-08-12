@@ -35,7 +35,7 @@ My target Clients are:
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
-I spend my free time Reading Books and contributing to open source. :wink:
+I spend my free time Reading Books and contributing to open source.
 
 
 ## ⚡ Technical Skills & Tools
