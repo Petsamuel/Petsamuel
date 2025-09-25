@@ -119,9 +119,8 @@ A React-based PWA that connects sponsors, recipients, and restaurants to share m
 
 <br/>
 
-<div>
-<a href="https://visitorbadge.io/status?path=Petsamuel4%40gmail.com"><img src="https://api.visitorbadge.io/api/visitors?path=Petsamuel4%40gmail.com&countColor=%23263759" /></a>
-</div>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpetsamuel&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpetsamuel)
+
  <br/>
   
   <table>
