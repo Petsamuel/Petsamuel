@@ -17,33 +17,126 @@ My target Clients are:
 
 <br/>
 
-
 <div align="left">
   
   [![Profile views ](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
   
-  <a href="https://x.com/bieefilled" target="_blank"><img src="https://img.shields.io/twitter/follow/bieefilled?logo=x&style=for-the-badge" alt="Twitter" /></a> 
-  <a href="https://www.frontendmentor.io/profile/petsamuel" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
-  <a href="https://www.linkedin.com/in/bieefilled" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bieefilled-informational?style=for-the-badge&logo=LinkedIn" alt="LinkedIN" /></a> 
+  <a href="https://x.com/bieefilled" target="_blank"><img src="https://img.shields.io/twitter/follow/bieefilled?logo=x&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://www.frontendmentor.io/profile/petsamuel" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
+  <a href="https://www.linkedin.com/in/bieefilled" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bieefilled-informational?style=for-the-badge&logo=LinkedIn" alt="LinkedIN" /></a>
   <a href="https://linktr.ee/bieefilled" target="_blank"><img src="https://img.shields.io/badge/Linktree-Bieefilled-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  
   
 </div>
 <br/>
-
-
 
 **I recommend looking through the pinned repositories which showcase my current skills.**
 
 I spend my free time Reading Books and contributing to open source.
 
-
 ## ⚡ Technical Skills & Tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### **Frontend Development**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### **UI Styling**
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### **Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### **Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### **Tools & Libraries**
+
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+### **Mobile & Extensions**
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Web Extensions](https://img.shields.io/badge/Web%20Extensions-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+
+### **AI & Emerging Tech**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3&logoColor=white)
 
 <br/><br/>
+
+## Projects I've Worked On
+
+<table>
+<tr>
+<td width="50%">
+
+### **[Appraisio](https://appraisio.vercel.app)**
+
+SaaS platform for modern appraisal management with empathy-centered design.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://appraisio.vercel.app) ![SaaS](https://img.shields.io/badge/SaaS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</td>
+<td width="50%">
+
+### **[SnapMasa](https://snapmasa.vercel.app/)**
+
+Convert Markdown tables into polished documents, HTML, or screenshots.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://snapmasa.vercel.app/) ![Productivity](https://img.shields.io/badge/Productivity-FF6B6B?style=for-the-badge&logo=markdown&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **[Quotia API](https://quotia.vercel.app)**
+
+A FastAPI-based quotes API with async scraping from Goodreads & Quotes to Scrape.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://quotia.vercel.app) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%">
+
+### **[Viblify](https://petsamuel.github.io/Viblify/)**
+
+Browser extension for Unicode text styling across platforms (Twitter, LinkedIn, Facebook).
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=githubpages&logoColor=white)](https://petsamuel.github.io/Viblify/) ![Extension](https://img.shields.io/badge/Browser%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### **[BoookBox](https://boookbox.vercel.app)**
+
+A React-based PWA that connects sponsors, recipients, and restaurants to share meals.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://boookbox.vercel.app) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**And lots more...**
+
+[![GitHub Repos](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Petsamuel?tab=repositories)
+
+</div>
+
+<br/><br/>
+
 ## How about Some Bullet Points? :heavy_check_mark:
+
 - I'm currently learning [LLM, NLP, solidity](https://reactjs.org/).
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)**
  <br/>
@@ -56,9 +149,7 @@ I spend my free time Reading Books and contributing to open source.
      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Petsamuel&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
   </tbody>
+
 </table>
 
-
-
-  
 [![An image of @bieefilled's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bieefilled)](https://holopin.io/@bieefilled)
