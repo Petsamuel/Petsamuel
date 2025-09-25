@@ -19,8 +19,8 @@ My target Clients are:
 <br/>
 
 <div align="left">
-  
-  [![Profile views ](https://visitcount.itsvg.in/api?id=petsamuel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitorbadge.io/status?path=Petsamuel4%40gmail.com"><img src="https://api.visitorbadge.io/api/visitors?path=Petsamuel4%40gmail.com&countColor=%23263759" /></a>
   
   <a href="https://x.com/bieefilled" target="_blank"><img src="https://img.shields.io/twitter/follow/bieefilled?logo=x&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://www.frontendmentor.io/profile/petsamuel" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Bieefilled-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
