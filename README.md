@@ -116,6 +116,9 @@ A React-based PWA that connects sponsors, recipients, and restaurants to share m
 
 - I'm currently learning [LLM, NLP, solidity](https://reactjs.org/).
 - **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bieefilled)** 
+
+<br/><br/>
+
 <a href="https://visitorbadge.io/status?path=Petsamuel4%40gmail.com"><img src="https://api.visitorbadge.io/api/visitors?path=Petsamuel4%40gmail.com&countColor=%23263759" /></a>
  <br/>
   
