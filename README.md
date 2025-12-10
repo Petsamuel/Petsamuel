@@ -52,11 +52,11 @@ I spend my free time Reading Books and contributing to open source.
 <tr>
 <td width="50%">
 
-### **[Appraisio](https://appraisio.vercel.app)**
+### **[Appraisio](https://prompt2wrap.vercel.app/)**
 
-SaaS platform for modern appraisal management with empathy-centered design.
+A fun wrap-style generator that turns your yearly prompts into a clean, colorful recap. Built the UI for a smooth, playful experience that feels like your own “ChatGPT Wrapped.”
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://appraisio.vercel.app) ![SaaS](https://img.shields.io/badge/SaaS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)]([https://appraisio.vercel.app](https://prompt2wrap.vercel.app/)) ![SaaS](https://img.shields.io/badge/SaaS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </td>
 <td width="50%">
