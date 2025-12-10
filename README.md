@@ -52,7 +52,7 @@ I spend my free time Reading Books and contributing to open source.
 <tr>
 <td width="50%">
 
-### **[Appraisio](https://prompt2wrap.vercel.app/)**
+### **[Prompt2Wrap](https://prompt2wrap.vercel.app/)**
 
 A fun wrap-style generator that turns your yearly prompts into a clean, colorful recap. Built the UI for a smooth, playful experience that feels like your own “ChatGPT Wrapped.”
 
