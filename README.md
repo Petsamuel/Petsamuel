@@ -81,7 +81,7 @@ A FastAPI-based quotes API with async scraping from Goodreads & Quotes to Scrape
 </td>
 <td width="50%">
 
-### **[Viblify](https://petsamuel.github.io/Viblify/)**
+### **[Viblify](https://viblify.pages.dev)**
 
 Browser extension for Unicode text styling across platforms (Twitter, LinkedIn, Facebook).
 
@@ -92,11 +92,12 @@ Browser extension for Unicode text styling across platforms (Twitter, LinkedIn, 
 <tr>
 <td colspan="2" align="center">
 
-### **[BoookBox](https://boookbox.vercel.app)**
+### **[Pikka](https://Pikka.pages.dec)**
 
-A React-based PWA that connects sponsors, recipients, and restaurants to share meals.
+Pikka is a browser extension that helps you capture web assets instantly.
+Instead of inspecting, downloading, renaming, or screenshotting, Pikka lets you extract images, SVGs, colors, and other assets in one or two clicks — without breaking your workflow.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://boookbox.vercel.app) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Built for developers, designers, and anyone who works with web assets daily.
 
 </td>
 </tr>
